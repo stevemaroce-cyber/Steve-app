@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Steve</title>
+<style>
+body{margin:0;background:#000;color:#fff;font-family:Arial;text-align:center;padding:30px}
+.s{font-size:90px;color:#d4af37;font-weight:bold}
+button{padding:12px 18px;border:none;border-radius:10px;margin:8px}
+</style>
+</head>
+<body>
+<div class="s">S</div>
+<h1>Bienvenido Steve</h1>
+<p>Tu app personal está activa.</p>
+<button>Agenda</button>
+<button>Notebook</button>
+<button>Voz Estif</button>
+</body>
+</html>
